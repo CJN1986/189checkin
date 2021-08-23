@@ -1,3 +1,5 @@
+# folk:https://github.com/Cluas/189checkin
+
 # 天翼云自动签到
 天翼云盘每日签到一次，抽奖2次  
 使用方法  
